@@ -1,1 +1,3 @@
-# phpTest <br/> -Michael <br> and Jim 
+# phpTest
+ -Michael<br/>
+ -Jim
